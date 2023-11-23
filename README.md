@@ -8,3 +8,4 @@ Hi,
 <a href="https://colab.research.google.com/github/fraserlkennedy/MIS-response/blob/main/Live_Huggingface_model_prediction.ipynb">Live Footprint Predictions</a> &rarr; <a target="_blank" href="https://colab.research.google.com/github/fraserlkennedy/MIS-response/blob/main/Live_Huggingface_model_prediction.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
+https://colab.research.google.com/github/fraserlkennedy/MIS-response/blob/main/Live_Huggingface_model_prediction.ipynb
